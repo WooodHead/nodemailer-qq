@@ -1,7 +1,7 @@
 var nodemailer = require("nodemailer");
 var smtpTransport = require('nodemailer-smtp-transport');
-var wellknown = require("nodemailer-wellknown");
 
+// var wellknown = require("nodemailer-wellknown");
 // var config = wellknown("QQ");
 // config.auth = {
 //   user: 'username',
